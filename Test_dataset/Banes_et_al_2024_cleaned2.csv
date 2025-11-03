@@ -1,0 +1,161 @@
+,drivers,Treatment_Number,Treatment_control,soil_organisms,identification_method,Sample_location,Soil_depth,organism_groups,diversity_indice,DNA_sequence,diversity_values,ecosystem_functions,values_functions
+1,land use,4,Forest,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,13.04742061,detritivory,141.0199038
+2,land use,4,Forest,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,15.18926038,detritivory,128.5361297
+3,land use,4,Forest,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,20.1980321,detritivory,200.7326773
+4,land use,4,Forest,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,24.19347571,detritivory,240.8361628
+5,land use,4,Forest,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,26.26967773,detritivory,256.2197493
+6,land use,4,Forest,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,33.20650658,detritivory,233.1890376
+7,land use,4,Forest,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,NA,detritivory,NA
+8,land use,4,Forest,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,NA,detritivory,NA
+9,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,18.07903872,detritivory,110.5035082
+10,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,19.32215533,detritivory,152.1581369
+11,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,20.32635737,detritivory,157.5953365
+12,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,21.5186015,detritivory,74.88928341
+13,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,25.45084775,detritivory,100.5999679
+14,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,27.37366733,detritivory,319.5975541
+15,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,29.7952717,detritivory,180.7702855
+16,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,31.07012175,detritivory,167.1682307
+17,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,7.01416232,detritivory,35.11175141
+18,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,7.036408766,detritivory,47.5698236
+19,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,7.126102388,detritivory,17.37021472
+20,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,14.03315739,detritivory,160.8283895
+21,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,16.18235082,detritivory,73.04632748
+22,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,17.18586306,detritivory,93.65710795
+23,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,19.38343838,detritivory,250.6940197
+24,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,20.26209317,detritivory,76.70225162
+25,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,8.037324982,detritivory,104.0803879
+26,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,12.05433987,detritivory,178.2084886
+27,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,16.59753545,detritivory,126.9320485
+28,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,17.51551225,detritivory,118.3506594
+29,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,18.19390124,detritivory,217.0956048
+30,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,18.30949356,detritivory,98.51626993
+31,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,23.14433869,detritivory,220.1460781
+32,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,detritivores,species richness,0,29.4417566,detritivory,246.5743046
+33,land use,4,Forest,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,0.996193287,herbivory,63.07733003
+34,land use,4,Forest,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,1.961077663,herbivory,57.54396511
+35,land use,4,Forest,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,2.073029804,herbivory,78.27251635
+36,land use,4,Forest,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,3.040673149,herbivory,90.2748817
+37,land use,4,Forest,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,4.058314063,herbivory,114.6469958
+38,land use,4,Forest,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,8.07828156,herbivory,69.46091421
+39,land use,4,Forest,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,NA,herbivory,NA
+40,land use,4,Forest,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,NA,herbivory,NA
+41,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,2.990449777,herbivory,74.75483875
+42,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,4.035845925,herbivory,52.81157516
+43,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,4.035845925,herbivory,89.91557419
+44,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,4.956149087,herbivory,62.92549231
+45,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,5.124019974,herbivory,34.02569189
+46,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,7.070549694,herbivory,60.89886815
+47,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,8.168477855,herbivory,165.4037067
+48,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,9.975618823,herbivory,68.35379475
+49,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,0.990678039,herbivory,16.75712036
+50,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,2.005114114,herbivory,34.46894754
+51,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,2.990449777,herbivory,9.976297555
+52,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,4.058314063,herbivory,28.64742915
+53,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,5.095651744,herbivory,37.8944212
+54,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,5.124019974,herbivory,30.24377163
+55,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,6.915265806,herbivory,118.986857
+56,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,8.07828156,herbivory,78.31706959
+57,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,1.994013154,herbivory,80.99651536
+58,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,2.924773317,herbivory,59.16152647
+59,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,3.925357364,herbivory,58.99277993
+60,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,7.070549694,herbivory,40.67151472
+61,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,8.828688419,herbivory,108.2689769
+62,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,9.127726972,herbivory,51.18716172
+63,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,11.98133825,herbivory,150.8939127
+64,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,herbivores,species richness,0,16.99820533,herbivory,134.4947147
+65,land use,4,Forest,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,55.78360744,total_energy fluxes,185.6990958
+66,land use,4,Forest,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,69.23710301,total_energy fluxes,196.6358143
+67,land use,4,Forest,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,91.16638056,total_energy fluxes,251.6246571
+68,land use,4,Forest,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,93.3814306,total_energy fluxes,310.2041067
+69,land use,4,Forest,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,101.0987754,total_energy fluxes,448.1729793
+70,land use,4,Forest,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,106.4636832,total_energy fluxes,322.5997704
+71,land use,4,Forest,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,110.0619553,total_energy fluxes,426.4300389
+72,land use,4,Forest,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,123.6409417,total_energy fluxes,434.933324
+73,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,68.02608415,total_energy fluxes,247.0556014
+74,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,68.0959086,total_energy fluxes,86.18210033
+75,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,70.39742212,total_energy fluxes,262.7860179
+76,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,72.76450612,total_energy fluxes,160.8698367
+77,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,78.06708064,total_energy fluxes,135.0531832
+78,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,84.8315265,total_energy fluxes,241.0867875
+79,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,85.14541234,total_energy fluxes,207.0817703
+80,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,124.7878295,total_energy fluxes,685.7509833
+81,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,21.91300723,total_energy fluxes,14.06802994
+82,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,27.04757402,total_energy fluxes,32.54552877
+83,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,43.63575925,total_energy fluxes,54.1634068
+84,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,44.61350681,total_energy fluxes,81.68526513
+85,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,52.50186634,total_energy fluxes,75.94849845
+86,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,66.84996204,total_energy fluxes,106.8365637
+87,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,73.45179628,total_energy fluxes,446.9368708
+88,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,81.85632278,total_energy fluxes,255.1654062
+89,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,38.27379911,total_energy fluxes,161.7946027
+90,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,38.54112976,total_energy fluxes,270.0795243
+91,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,69.36507705,total_energy fluxes,139.6882794
+92,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,70.91934208,total_energy fluxes,365.869597
+93,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,76.07468154,total_energy fluxes,173.9947731
+94,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,81.75561202,total_energy fluxes,140.9332779
+95,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,88.83966598,total_energy fluxes,417.2004066
+96,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,macroinvertebrates,species richness,0,129.9618575,total_energy fluxes,447.9299029
+97,land use,4,Forest,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,19.08699646,omnivory,49.2032287
+98,land use,4,Forest,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,23.15258354,omnivory,44.63637135
+99,land use,4,Forest,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,23.13184694,omnivory,37.3755276
+100,land use,4,Forest,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,25.24366766,omnivory,52.81253863
+101,land use,4,Forest,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,28.58741195,omnivory,73.65677488
+102,land use,4,Forest,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,29.71514063,omnivory,77.32339961
+103,land use,4,Forest,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,32.33368448,omnivory,89.11744135
+104,land use,4,Forest,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,34.47302823,omnivory,60.0852336
+105,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,12.01279949,omnivory,45.68579535
+106,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,15.03242567,omnivory,33.74174042
+107,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,16.88956993,omnivory,39.71917086
+108,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,17.08746126,omnivory,61.36155446
+109,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,17.13729533,omnivory,21.73206323
+110,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,18.11224591,omnivory,31.59064848
+111,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,19.03149276,omnivory,45.01343495
+112,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,35.38849375,omnivory,134.7199342
+113,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,7.967391354,omnivory,7.976138857
+114,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,8.977810081,omnivory,18.51355293
+115,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,9.970133809,omnivory,12.27238533
+116,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,11.00783938,omnivory,22.01826909
+117,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,13.03337515,omnivory,16.03550103
+118,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,13.97689205,omnivory,24.90639893
+119,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,20.231699,omnivory,96.52357461
+120,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,31.40565207,omnivory,57.82743352
+121,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,11.00783938,omnivory,64.47098404
+122,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,13.05136643,omnivory,39.21386813
+123,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,13.49689142,omnivory,44.07574035
+124,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,18.05957676,omnivory,25.71536577
+125,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,19.14266199,omnivory,80.16539706
+126,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,20.17286662,omnivory,34.87341147
+127,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,24.16469856,omnivory,73.93627764
+128,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,omnivores,species richness,0,33.38622501,omnivory,81.4067223
+129,land use,4,Forest,invertebrate,morphology,Leaf litter,0,predators,species richness,0,1.613838842,predation,0.956414214
+130,land use,4,Forest,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.412774965,predation,0.987682839
+131,land use,4,Forest,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.721299169,predation,1.707133328
+132,land use,4,Forest,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.832072905,predation,1.261151143
+133,land use,4,Forest,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.973604929,predation,1.299558906
+134,land use,4,Forest,invertebrate,morphology,Leaf litter,0,predators,species richness,0,3.0985714,predation,1.615713732
+135,land use,4,Forest,invertebrate,morphology,Leaf litter,0,predators,species richness,0,NA,predation,NA
+136,land use,4,Forest,invertebrate,morphology,Leaf litter,0,predators,species richness,0,NA,predation,NA
+137,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,1.988962587,predation,1.122449451
+138,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,1.982674244,predation,0.704148738
+139,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.085716866,predation,1.065226802
+140,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.270861346,predation,0.92042
+141,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.344982332,predation,1.005060977
+142,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.729930169,predation,1.089107195
+143,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,3.118257718,predation,1.887551797
+144,land use,4,Jungle rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,NA,predation,NA
+145,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,predators,species richness,0,0.669176799,predation,0.238977564
+146,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,predators,species richness,0,1.069246317,predation,0.414920137
+147,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,predators,species richness,0,1.500477308,predation,0.690566909
+148,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,predators,species richness,0,1.650011264,predation,0.643251373
+149,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,predators,species richness,0,1.660494372,predation,0.543313954
+150,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.020704739,predation,1.424591849
+151,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.146014223,predation,1.194355033
+152,land use,4,Oil palm,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.19411477,predation,0.754152232
+153,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,1.330362397,predation,1.035188038
+154,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,1.933077968,predation,1.372557869
+155,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.166498257,predation,1.516470111
+156,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.146014223,predation,0.840278814
+157,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.435805271,predation,1.076091748
+158,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.570524828,predation,0.721659598
+159,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.530145851,predation,1.087757203
+160,land use,4,Rubber,invertebrate,morphology,Leaf litter,0,predators,species richness,0,2.954831832,predation,1.563471374
