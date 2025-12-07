@@ -1,6 +1,6 @@
 rm(list = ls())
 #-------------------------------------------------Scopus_merged_75347.ris------------------------
-setwd("F:\Literature\Scopus")
+setwd("F:\Literature\Scopus")#All 5 RIS files
 getwd()
 files <- list.files(pattern = "\\.ris$", full.names = TRUE)
 start_num <- as.numeric(sub(".*_(\\d+)_.*", "\\1", files))
@@ -30,7 +30,7 @@ print(ris_summary)
 
 #---------------------------------------------------------------------------------------------
 #-------------------------------------------------merged WOS Scopus------------------------
-setwd("F:\\Literature\\WOS_Scopus")
+setwd("F:\\Literature\\WOS_Scopus")# Two summary files for WOS and Scopus，Remember to change the file names
 getwd()
 
 ## Set function
@@ -161,3 +161,4 @@ writeLines(merged_lines, "merged_WOSplusScopus_dedup.ris", useBytes = TRUE)
 
 cat("Final merged record count:", length(merged_recs), "\n")
 cat("Final file: merged_WOSplusScopus_dedup.ris\n")
+
