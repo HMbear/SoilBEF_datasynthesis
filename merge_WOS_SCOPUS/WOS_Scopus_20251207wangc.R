@@ -1,6 +1,6 @@
 rm(list = ls())
 #-------------------------------------------------Scopus_merged_75347.ris------------------------
-setwd("F:\Literature\Scopus")#All 5 RIS files
+setwd("F:\\Literature\\Scopus")#All 5 RIS files
 getwd()
 files <- list.files(pattern = "\\.ris$", full.names = TRUE)
 start_num <- as.numeric(sub(".*_(\\d+)_.*", "\\1", files))
@@ -9,7 +9,7 @@ files_sorted
 merged_content <- unlist(lapply(files, function(f) c(readLines(f, encoding = "UTF-8"), "")))
 writeLines(merged_content, "merged_75347.ris", useBytes = TRUE)
 #--------------------------------------------------------check_numbers??------------------
-setwd("F:\Literature\Scopus")
+setwd("F:\\Literature\\Scopus")
 getwd()
 files <- list.files(pattern = "\\.ris$", full.names = TRUE)
 
@@ -161,4 +161,5 @@ writeLines(merged_lines, "merged_WOSplusScopus_dedup.ris", useBytes = TRUE)
 
 cat("Final merged record count:", length(merged_recs), "\n")
 cat("Final file: merged_WOSplusScopus_dedup.ris\n")
+
 
