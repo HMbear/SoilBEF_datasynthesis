@@ -1,5 +1,5 @@
 rm(list = ls())
-setwd("F:\\Literature\\WOS_pubmed")
+setwd("C:/nextcloud/SoilBEF_Synthesis/Literature_pool")
 
 getwd()
 
@@ -92,21 +92,21 @@ dedup_ris <- function(ris_file, out_file, dup_csv = NULL) {
 
 ##1.perform deduplication separately for WOS and pubmed
 res_wos <- dedup_ris(
-  ris_file = "savedrecs_WOS.ris",#merged_sum_dedup_minus106.ris,76126
-  out_file = "savedrecs_WOS_dedup.ris",
-  dup_csv  = "savedrecs_WOS_duplicates.csv"
+  ris_file = "WOS_pubmed/merged_sum_dedup_minus106.ris",#merged_sum_dedup_minus106.ris,76126
+  out_file = "WOS_pubmed/savedrecs_WOS_dedup.ris",
+  dup_csv  = "WOS_pubmed/savedrecs_WOS_duplicates.csv"
 )
 
 res_pubmed <- dedup_ris(
-  ris_file = "pubmed_export.ris",#pubmed_merged_dedup_minus9033.ris,39115
-  out_file = "pubmed_export_dedup.ris",
-  dup_csv  = "pubmed_export_duplicates.csv"
+  ris_file = "WOS_pubmed/pubmed_merged_dedup_minus9033.ris",#pubmed_merged_dedup_minus9033.ris,39115
+  out_file = "WOS_pubmed/pubmed_export_dedup.ris",
+  dup_csv  = "WOS_pubmed/pubmed_export_duplicates.csv"
 )
 
 
 ## 2.Read the two already deduplicated files.
-wos_lines    <- readLines("savedrecs_WOS_dedup.ris", encoding = "UTF-8")
-pubmed_lines <- readLines("pubmed_export_dedup.ris", encoding = "UTF-8")
+wos_lines    <- readLines("WOS_pubmed/savedrecs_WOS_dedup.ris", encoding = "UTF-8")
+pubmed_lines <- readLines("WOS_pubmed/pubmed_export_dedup.ris", encoding = "UTF-8")
 
 wos_s    <- split_ris_records(wos_lines)
 pubmed_s <- split_ris_records(pubmed_lines)
@@ -127,7 +127,7 @@ cat("Number of additional records contributed from pubmed:", sum(keep_pubmed), "
 merged_recs <- c(wos_recs, pubmed_recs[keep_pubmed])
 
 merged_lines <- unlist(merged_recs, use.names = FALSE)
-writeLines(merged_lines, "merged_WOSpluspubmed_dedup.ris", useBytes = TRUE)
+writeLines(merged_lines, "WOS_pubmed/merged_WOSpluspubmed_dedup.ris", useBytes = TRUE)
 
 cat("Final merged record count:", length(merged_recs), "\n")
 cat("Final file: merged_WOSpluspubmed_dedup.ris\n")
