@@ -2,8 +2,8 @@ rm(list = ls())
 setwd("F:\\Literature\\WOS_pubmed")
 getwd()
 
-big_file   <- "pubmed_merged_dedup.ris"       
-small_file <- "merged_sum_dedup_luise9033.ris" 
+big_file   <- "Pubmed/convert_Hui/pubmed_merged_dedup.ris"       
+small_file <- "Luise/merged_sum_dedup_9033.ris" 
 out_file   <- "pubmed_merged_dedup_minus9033.ris" 
 
 #1. read RIS
@@ -49,9 +49,9 @@ n_before <- length(big_recs)
 n_remove <- length(rm_idx)
 n_after  <- sum(keep_idx)
 
-cat("Original record count: ", n_before, "\n")#41590
-cat("Number of records to delete: ", n_remove, "\n")#2475
-cat("Number of records after deletion: ", n_after, "\n\n")#39115
+cat("Original record count: ", n_before, "\n")#41590 # Update new datasets 45435
+cat("Number of records to delete: ", n_remove, "\n")#2475 # Update new datasets 2771
+cat("Number of records after deletion: ", n_after, "\n\n")#39115 # Update new datasets 42664
 
 #5. View the line numbers of deleted records in the original file
 
@@ -75,7 +75,7 @@ deleted_info <- data.frame(
 
 print(head(deleted_info, 10)) #first 10
 
-write.csv(deleted_info, "deleted_records_line_info.csv", row.names = FALSE)
+write.csv(deleted_info, "deleted_Luisrecords_line_info.csv", row.names = FALSE)
 
 #6. write new ris
 new_recs  <- big_recs[keep_idx]
